@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tariffs>
+    <tariff id = "v1">
+        <name>
+            life unlim
+        </name>
+        <oname>
+            life
+        </oname>
+        <payroll>
+            1
+        </payroll>
+        <smsprice>
+            1
+        </smsprice>
+        <callprice>
+            <innerp>
+                1
+            </innerp>
+             <outerp>
+                1
+            </outerp>
+             <homep>
+                1
+            </homep>           
+        </callprice>
+    </tariff> 
+</tariffs>
